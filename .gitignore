@@ -1,6 +1,8 @@
 .env
 venv/
 __pycache__/
+outputs/
+*.db
 #.env stops your API key file from being uploaded.
 #venv/ stops the virtual environment folder from being uploaded.
 #__pycache__/ stops Python’s temporary files from being uploaded.

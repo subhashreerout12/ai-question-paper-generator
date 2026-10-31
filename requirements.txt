@@ -1,0 +1,5 @@
+pymupdf
+anthropic
+python-dotenv
+python-docx
+streamlit
